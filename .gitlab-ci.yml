@@ -1,0 +1,5 @@
+lib2geom:
+  script:
+    - cmake .
+    - make
+    - make test
